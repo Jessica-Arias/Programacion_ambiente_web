@@ -23,4 +23,5 @@ Una vez que hayas configurado correctamente la ruta de la base de datos, estás 
 4. Haz clic derecho en el archivo y selecciona "Establecer como página de inicio" para configurar la página principal de la aplicación.
 5. Haz clic en el botón de "Iniciar depuración" o presiona F5 para correr la aplicación en tu navegador.
 6. ¡Disfruta de la aplicación web en funcionamiento!
+
 ¡Listo! Ahora deberías poder ver el proyecto en tu navegador y probar su funcionalidad.
