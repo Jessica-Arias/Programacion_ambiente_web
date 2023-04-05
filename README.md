@@ -1,6 +1,5 @@
-# Programacion_ambiente_web
+# Programación en Ambiente Web con .NET
 
-Programación en Ambiente Web con .NET
 ¡Bienvenido a la materia de Programación en Ambiente Web con .NET! Este repositorio contiene un proyecto creado con el popular Framework .NET para desarrollar aplicaciones web. Además, se incluyen bases de datos creadas para facilitar la ejecución del proyecto.
 
 ## Requisitos
